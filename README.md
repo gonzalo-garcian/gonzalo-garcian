@@ -4,4 +4,4 @@
   
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,nodejs,vuejs,electron,react,php,py,cpp,c,mysql,dart,androidstudio,java)](https://skillicons.dev)  
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FFF19&center=true&vCenter=true&lines=Follow+me+on+Hack+The+Box!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FFF19&center=true&vCenter=true&lines=Follow+me+on+Hack+The+Box!+@koboku)](https://git.io/typing-svg)
