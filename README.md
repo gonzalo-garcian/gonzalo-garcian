@@ -1,14 +1,11 @@
 ![alt text](https://github.com/gonzalo-garcian/gonzalo-garcian/blob/main/header-space.png)  
-
+  
 <p align="center">
   <a href="https://github.com/gonzalo-garcian">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalo-garcian&title_color=FA9E05&icon_color=0BE2C1&text_color=FFFFFF&bg_color=0d1117&hide_border=true&custom_title=Most%20%Used%20%Languages%20🌌&hide=java&count_private=true" />
-  </a>
-</p>
-  
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,js,html,css,nodejs,vuejs,vite,firebase,php,postgresql,py,cpp,c&perline=5" />
+  </a>
   </a>
 </p>
 
