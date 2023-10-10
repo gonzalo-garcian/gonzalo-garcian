@@ -1,12 +1,18 @@
 ![alt text](https://github.com/gonzalo-garcian/gonzalo-garcian/blob/main/header-space.png)  
-  
+<h1 align="center">I'm a Full-Stack Developer👨‍💻 Space freak 🌌 Novice Hacker 🐸</h1>
+<p>I love the entire process of developing complete apps, from design and documentation to programming and configuration. I enjoy learning and creating useful applications that can help people. I also have a passion for experimenting with network security and breaking things (it's the most fun part) and then fixing them!</p>
+
+</br>
+
+<h1 align="center">Contact me 🤝</h1>
 <p align="center">
-  <a href="https://github.com/gonzalo-garcian">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalo-garcian&title_color=FA9E05&icon_color=0BE2C1&text_color=FFFFFF&bg_color=0d1117&hide_border=true&custom_title=Most%20%Used%20%Languages%20🌌&hide=java&count_private=true" />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,git,github,docker,jenkins,aws,kubernetes,py,js,typescript,html,css,nodejs,vuejs,php,postgresql,mysql,latex&perline=7" />
-  </a>
-  </a>
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin&perline=1" />&emsp; <a href="https://www.linkedin.com/in/gonzalo-garcian/">Linkedin</a> &emsp;
+  <img align="center" src="https://github.com/gonzalo-garcian/gonzalo-garcian/blob/main/gmail-icon.png" />&emsp; <a href="mailto:contact.me.gonzalo@protonmail.com">E-mail</a>
 </p>
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=2000&color=07F700&center=true&vCenter=true&width=1000&height=300&lines=Follow+me+on+HackTheBox%3A+%40Pangoshi)](https://git.io/typing-svg) -->
+</br>
+
+<h1 align="center">Skills 🛠️</h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,git,github,docker,jenkins,aws,kubernetes,py,js,typescript,html,css,nodejs,vuejs,php,postgresql,mysql,latex&perline=7" />
+</p>
