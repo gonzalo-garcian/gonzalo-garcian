@@ -16,7 +16,7 @@
 <h1 align="center">Skills 🛠️</h1>
 </br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,git,github,docker,jenkins,aws,kubernetes,py,js,typescript,html,css,nodejs,vuejs,php,postgresql,mysql,latex&perline=7" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,git,github,docker,jenkins,aws,azure,kubernetes,py,js,typescript,html,css,nodejs,vuejs,php,postgresql,mysql&perline=7" />
 </p>
 
 </br></br>
